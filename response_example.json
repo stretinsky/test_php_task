@@ -1,0 +1,3630 @@
+{
+  "metadata": {
+    "name": "кашпо",
+    "catalog_type": "preset",
+    "catalog_value": "preset=77006005"
+  },
+  "state": 0,
+  "version": 2,
+  "data": {
+    "products": [
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 90602424,
+        "root": 70461342,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо горшок для цветов / с автополивом / Пластмас",
+        "brand": "SVKGROUPE",
+        "brandId": 2554027,
+        "siteBrandId": 0,
+        "sale": 95,
+        "priceU": 1475000,
+        "salePriceU": 73700,
+        "averagePrice": 56920,
+        "benefit": -29,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 133,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 145888636
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 49,
+        "id": 41852399,
+        "root": 31265681,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / выдвижные ручки / abs-пластик",
+        "brand": "Удобно!",
+        "brandId": 153585,
+        "siteBrandId": 163585,
+        "sale": 14,
+        "priceU": 125000,
+        "salePriceU": 107500,
+        "averagePrice": 89166,
+        "benefit": -20,
+        "pics": 7,
+        "rating": 5,
+        "feedbacks": 2260,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 83947466
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 70129836,
+        "root": 55591633,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для цветов напольное горшок 25 л",
+        "brand": "garra home",
+        "brandId": 400093,
+        "siteBrandId": 410093,
+        "sale": 45,
+        "priceU": 231000,
+        "salePriceU": 127000,
+        "averagePrice": 74771,
+        "benefit": -69,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 1083,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 119669138
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 49,
+        "id": 97304948,
+        "root": 75841961,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / выдвижные ручки / пластик",
+        "brand": "I Love Home",
+        "brandId": 153201,
+        "siteBrandId": 163201,
+        "sale": 85,
+        "priceU": 924600,
+        "salePriceU": 138600,
+        "averagePrice": 121418,
+        "benefit": -14,
+        "pics": 5,
+        "rating": 5,
+        "feedbacks": 206,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 154291633
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 18,
+        "time2": 49,
+        "id": 97293703,
+        "root": 75841961,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / выдвижные ручки / пластик",
+        "brand": "I Love Home",
+        "brandId": 153201,
+        "siteBrandId": 163201,
+        "sale": 87,
+        "priceU": 698500,
+        "salePriceU": 90800,
+        "averagePrice": 80732,
+        "benefit": -12,
+        "pics": 5,
+        "rating": 5,
+        "feedbacks": 206,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 154277470
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 30964676,
+        "root": 23011553,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо горшок для цветов / грут Марвел / ПВХ",
+        "brand": "KRIS26",
+        "brandId": 138366,
+        "siteBrandId": 148366,
+        "sale": 75,
+        "priceU": 186000,
+        "salePriceU": 46500,
+        "averagePrice": 42997,
+        "benefit": -8,
+        "pics": 9,
+        "rating": 5,
+        "feedbacks": 286,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 67764320
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "id": 71588975,
+        "root": 56783538,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для цветов напольное",
+        "brand": "bekväm",
+        "brandId": 2638240,
+        "siteBrandId": 0,
+        "sale": 10,
+        "priceU": 115400,
+        "salePriceU": 103800,
+        "averagePrice": 75973,
+        "benefit": -36,
+        "pics": 6,
+        "rating": 5,
+        "feedbacks": 324,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 121718797
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 93192728,
+        "root": 72655174,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / декор для дома / гипс высокопрочный",
+        "brand": "Ta Le",
+        "brandId": 2685373,
+        "siteBrandId": 0,
+        "sale": 50,
+        "priceU": 251000,
+        "salePriceU": 125500,
+        "averagePrice": 111356,
+        "benefit": -12,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 10,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 149235158
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 75166294,
+        "root": 59423487,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для цветов напольное горшок 25 л",
+        "brand": "VIVIPEACE",
+        "brandId": 150345,
+        "siteBrandId": 160345,
+        "sale": 45,
+        "priceU": 231000,
+        "salePriceU": 127000,
+        "averagePrice": 77790,
+        "benefit": -63,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 332,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 126627257
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12764525,
+        "root": 9577779,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Фигурное кашпо \"Голова\", чёрное, 17*14*15см",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 38,
+        "priceU": 116200,
+        "salePriceU": 72000,
+        "averagePrice": 92733,
+        "benefit": 22,
+        "pics": 5,
+        "rating": 5,
+        "feedbacks": 145,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39320840
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 28907218,
+        "root": 21274800,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / для улицы / горшок для цветов / стильный дизайн / Настольное / декор для дома / пластик / abs-пластик",
+        "brand": "Feen",
+        "brandId": 173077,
+        "siteBrandId": 183077,
+        "sale": 51,
+        "priceU": 134000,
+        "salePriceU": 65600,
+        "averagePrice": 79300,
+        "benefit": 17,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 287,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 64937212
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 70129837,
+        "root": 55591633,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для цветов напольное горшок 25 л",
+        "brand": "garra home",
+        "brandId": 400093,
+        "siteBrandId": 410093,
+        "sale": 45,
+        "priceU": 231000,
+        "salePriceU": 127000,
+        "averagePrice": 78333,
+        "benefit": -62,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 1083,
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 119669139
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 43365893,
+        "root": 32335108,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Коврики под цветочные горшки",
+        "brand": "Кашпо для сада и дома",
+        "brandId": 538955,
+        "siteBrandId": 548955,
+        "sale": 8,
+        "priceU": 115500,
+        "salePriceU": 106200,
+        "averagePrice": 76599,
+        "benefit": -38,
+        "pics": 2,
+        "rating": 5,
+        "feedbacks": 2194,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 86345699
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 53475711,
+        "root": 39863308,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо Декор интерьера / гипс",
+        "brand": "Сувенирная фабрика Камолов",
+        "brandId": 341020,
+        "siteBrandId": 351020,
+        "sale": 44,
+        "priceU": 160000,
+        "salePriceU": 89600,
+        "averagePrice": 78499,
+        "benefit": -14,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 146,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 99620981
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 7301000,
+        "root": 5725242,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо abs-пластик",
+        "brand": "WinGarden",
+        "brandId": 25912,
+        "siteBrandId": 35912,
+        "sale": 50,
+        "priceU": 239000,
+        "salePriceU": 119500,
+        "averagePrice": 105100,
+        "benefit": -13,
+        "pics": 7,
+        "rating": 5,
+        "feedbacks": 314,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 25256095
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 46742058,
+        "root": 34776229,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо ПЛАСТИКОВЫЙ",
+        "brand": "Кашпо для сада и дома",
+        "brandId": 538955,
+        "siteBrandId": 548955,
+        "sale": 18,
+        "priceU": 208000,
+        "salePriceU": 170500,
+        "averagePrice": 144931,
+        "benefit": -17,
+        "pics": 2,
+        "rating": 5,
+        "feedbacks": 446,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 91065746
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 48537884,
+        "root": 14453577,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / пластик",
+        "brand": "LAMELA",
+        "brandId": 161446,
+        "siteBrandId": 171446,
+        "sale": 30,
+        "priceU": 249500,
+        "salePriceU": 174600,
+        "averagePrice": 158440,
+        "benefit": -10,
+        "pics": 5,
+        "rating": 5,
+        "feedbacks": 195,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 93369097
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 42966333,
+        "root": 32040400,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для больших растений / устойчивое кашпо / металл",
+        "brand": "ALTAA",
+        "brandId": 401296,
+        "siteBrandId": 411296,
+        "sale": 40,
+        "priceU": 770000,
+        "salePriceU": 462000,
+        "averagePrice": 406500,
+        "benefit": -13,
+        "pics": 6,
+        "rating": 4,
+        "feedbacks": 18,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 85804202
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 46740932,
+        "root": 34775264,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо пластик",
+        "brand": "Кашпо для сада и дома",
+        "brandId": 538955,
+        "siteBrandId": 548955,
+        "sale": 10,
+        "priceU": 171000,
+        "salePriceU": 153900,
+        "averagePrice": 127398,
+        "benefit": -20,
+        "pics": 2,
+        "rating": 5,
+        "feedbacks": 711,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 91064658
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 28907222,
+        "root": 21274800,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / для улицы / горшок для цветов / стильный дизайн / Настольное / декор для дома / пластик / abs-пластик",
+        "brand": "Feen",
+        "brandId": 173077,
+        "siteBrandId": 183077,
+        "sale": 51,
+        "priceU": 134000,
+        "salePriceU": 65600,
+        "averagePrice": 79300,
+        "benefit": 17,
+        "pics": 9,
+        "rating": 5,
+        "feedbacks": 287,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 64937216
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 71417132,
+        "root": 55591633,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для цветов напольное горшок 25 л",
+        "brand": "garra home",
+        "brandId": 400093,
+        "siteBrandId": 410093,
+        "sale": 45,
+        "priceU": 231000,
+        "salePriceU": 127000,
+        "averagePrice": 78300,
+        "benefit": -62,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 1083,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 121523753
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 49,
+        "id": 65520761,
+        "root": 49716213,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / стильный дизайн / пластик",
+        "brand": "YRC",
+        "brandId": 912663,
+        "siteBrandId": 922663,
+        "sale": 32,
+        "priceU": 149900,
+        "salePriceU": 101900,
+        "averagePrice": 88065,
+        "benefit": -15,
+        "pics": 10,
+        "rating": 5,
+        "feedbacks": 1069,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 114315994
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 29225196,
+        "root": 21497485,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо бетон / гипс",
+        "brand": "SHIKANI",
+        "brandId": 155071,
+        "siteBrandId": 165071,
+        "sale": 40,
+        "priceU": 89000,
+        "salePriceU": 53400,
+        "averagePrice": 46900,
+        "benefit": -13,
+        "pics": 6,
+        "rating": 4,
+        "feedbacks": 11,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 65389724
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 94520580,
+        "root": 73661143,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для цветов напольное горшок 63 л",
+        "brand": "garra home",
+        "brandId": 400093,
+        "siteBrandId": 410093,
+        "sale": 33,
+        "priceU": 356800,
+        "salePriceU": 239000,
+        "averagePrice": 123737,
+        "benefit": -93,
+        "pics": 8,
+        "rating": 4,
+        "feedbacks": 6,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 150818119
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 73765828,
+        "root": 14453577,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / пластик",
+        "brand": "LAMELA",
+        "brandId": 161446,
+        "siteBrandId": 171446,
+        "sale": 30,
+        "priceU": 249500,
+        "salePriceU": 174600,
+        "averagePrice": 159811,
+        "benefit": -9,
+        "pics": 1,
+        "rating": 5,
+        "feedbacks": 195,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 124846934
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 75166296,
+        "root": 59423487,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для цветов напольное горшок 25 л",
+        "brand": "VIVIPEACE",
+        "brandId": 150345,
+        "siteBrandId": 160345,
+        "sale": 45,
+        "priceU": 231000,
+        "salePriceU": 127000,
+        "averagePrice": 78300,
+        "benefit": -62,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 332,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 126627259
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 35860831,
+        "root": 26294588,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо полипропилен",
+        "brand": "Антарес",
+        "brandId": 25247,
+        "siteBrandId": 35247,
+        "sale": 20,
+        "priceU": 65900,
+        "salePriceU": 52700,
+        "averagePrice": 46300,
+        "benefit": -13,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 34,
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 74910527
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 49,
+        "id": 30964678,
+        "root": 23011553,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо горшок для цветов / грут Марвел / ПВХ",
+        "brand": "KRIS26",
+        "brandId": 138366,
+        "siteBrandId": 148366,
+        "sale": 76,
+        "priceU": 186000,
+        "salePriceU": 44600,
+        "averagePrice": 45777,
+        "benefit": 2,
+        "pics": 9,
+        "rating": 5,
+        "feedbacks": 286,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 67764322
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 13114317,
+        "root": 9831165,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо \"Шар\" шёлк 2 литра, белый",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 45,
+        "priceU": 195600,
+        "salePriceU": 107500,
+        "averagePrice": 118700,
+        "benefit": 9,
+        "pics": 3,
+        "rating": 4,
+        "feedbacks": 28,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 40080014
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 47415557,
+        "root": 35289882,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / Экологичный / керамика",
+        "brand": "Mandarin Decor",
+        "brandId": 51663,
+        "siteBrandId": 61663,
+        "sale": 60,
+        "priceU": 249000,
+        "salePriceU": 99600,
+        "averagePrice": 82100,
+        "benefit": -21,
+        "pics": 9,
+        "rating": 5,
+        "feedbacks": 21,
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 91872109
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 18270332,
+        "root": 13589520,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 49,
+        "priceU": 75600,
+        "salePriceU": 38500,
+        "averagePrice": 64500,
+        "benefit": 40,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 6,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 49781904
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "id": 45009028,
+        "root": 31265681,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / выдвижные ручки / abs-пластик",
+        "brand": "Удобно!",
+        "brandId": 153585,
+        "siteBrandId": 163585,
+        "sale": 14,
+        "priceU": 125000,
+        "salePriceU": 107500,
+        "averagePrice": 83534,
+        "benefit": -28,
+        "pics": 7,
+        "rating": 5,
+        "feedbacks": 2260,
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 88668651
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 9484148,
+        "root": 7273035,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Ezilita Home",
+        "brandId": 43968,
+        "siteBrandId": 53968,
+        "sale": 67,
+        "priceU": 180000,
+        "salePriceU": 59400,
+        "averagePrice": 52200,
+        "benefit": -13,
+        "pics": 1,
+        "rating": 5,
+        "feedbacks": 1,
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 31471966
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 18270392,
+        "root": 13589552,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 32,
+        "priceU": 114900,
+        "salePriceU": 78100,
+        "averagePrice": 88900,
+        "benefit": 12,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 1,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 49781964
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 64866703,
+        "root": 49229713,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо горшок для цветов / с подставкой / металл",
+        "brand": "ALTAA",
+        "brandId": 401296,
+        "siteBrandId": 411296,
+        "sale": 40,
+        "priceU": 790000,
+        "salePriceU": 474000,
+        "averagePrice": 417100,
+        "benefit": -13,
+        "pics": 7,
+        "rating": 4,
+        "feedbacks": 21,
+        "colors": [
+          {
+            "name": "желтый",
+            "id": 16776960
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 113470453
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 11915238,
+        "root": 8946280,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо дерево",
+        "brand": "Дарим Красиво",
+        "brandId": 52306,
+        "siteBrandId": 62306,
+        "sale": 51,
+        "priceU": 61900,
+        "salePriceU": 30300,
+        "averagePrice": 49200,
+        "benefit": 38,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 9,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 37438498
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 39805453,
+        "root": 29942970,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 55,
+        "priceU": 71500,
+        "salePriceU": 32100,
+        "averagePrice": 45700,
+        "benefit": 29,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 24,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 80505500
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 9937593,
+        "root": 7578169,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо плетеное Н10 D19",
+        "brand": "Идеал",
+        "brandId": 21293,
+        "siteBrandId": 31293,
+        "sale": 71,
+        "priceU": 198500,
+        "salePriceU": 57500,
+        "averagePrice": 47000,
+        "benefit": -22,
+        "pics": 2,
+        "rating": 4,
+        "feedbacks": 8,
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 32575178
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 28306367,
+        "root": 20791220,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо акрил",
+        "brand": "KatzenHaus",
+        "brandId": 250451,
+        "siteBrandId": 260451,
+        "sale": 29,
+        "priceU": 269000,
+        "salePriceU": 190900,
+        "averagePrice": 168000,
+        "benefit": -13,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 2,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 64071176
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 18260647,
+        "root": 13582466,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо Кубок 3л 19,9см коричневый",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 54,
+        "priceU": 162900,
+        "salePriceU": 74900,
+        "averagePrice": 81166,
+        "benefit": 7,
+        "pics": 2,
+        "rating": 5,
+        "feedbacks": 6,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 49766667
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12764437,
+        "root": 9577728,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо гипс",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 33,
+        "priceU": 110900,
+        "salePriceU": 74300,
+        "averagePrice": 54600,
+        "benefit": -36,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 1,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39320752
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12984727,
+        "root": 9735148,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо сталь",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 56,
+        "priceU": 70600,
+        "salePriceU": 31000,
+        "averagePrice": 29800,
+        "benefit": -4,
+        "pics": 1,
+        "rating": 3,
+        "feedbacks": 1,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39799091
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 15012801,
+        "root": 11226597,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо полистоун",
+        "brand": "Art East",
+        "brandId": 1205,
+        "siteBrandId": 1370,
+        "sale": 30,
+        "priceU": 429000,
+        "salePriceU": 300300,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 6,
+        "rating": 5,
+        "feedbacks": 2,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 43997994
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 27832001,
+        "root": 20420797,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо фарфор",
+        "brand": "Гжельский фарфоровый завод",
+        "brandId": 64735,
+        "siteBrandId": 74735,
+        "sale": 33,
+        "priceU": 304000,
+        "salePriceU": 203600,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 63319530
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 53648683,
+        "root": 40000696,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо Полипропилен (PP) - первичное сырье",
+        "brand": "Ykka-A",
+        "brandId": 122482,
+        "siteBrandId": 132482,
+        "sale": 26,
+        "priceU": 115000,
+        "salePriceU": 85100,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 5,
+        "feedbacks": 1,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 99912529
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 9484149,
+        "root": 7273036,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Ezilita Home",
+        "brandId": 43968,
+        "siteBrandId": 53968,
+        "sale": 66,
+        "priceU": 180000,
+        "salePriceU": 61200,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 1,
+        "rating": 5,
+        "feedbacks": 4,
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 31471967
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 66911003,
+        "root": 50787276,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо 1,6 л с подставкой",
+        "brand": "Sun plastik",
+        "brandId": 354902,
+        "siteBrandId": 364902,
+        "sale": 0,
+        "priceU": 45700,
+        "salePriceU": 45700,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 1,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 116034789
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 37955446,
+        "root": 28549341,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо Декор / Гипсовое кашпо африканка с дизайном бусы из жемчуга / гипс",
+        "brand": "VazyVsem",
+        "brandId": 352225,
+        "siteBrandId": 362225,
+        "sale": 59,
+        "priceU": 845000,
+        "salePriceU": 346400,
+        "averagePrice": 301483,
+        "benefit": -14,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 80,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 77920367
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 38403874,
+        "root": 28882497,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо ручная работа / полистоун",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 35,
+        "priceU": 439500,
+        "salePriceU": 285600,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 4,
+        "rating": 5,
+        "feedbacks": 1,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 78501087
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 40439045,
+        "root": 30344590,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо металл",
+        "brand": "Triumph Xmas",
+        "brandId": 22824,
+        "siteBrandId": 32824,
+        "sale": 78,
+        "priceU": 1188000,
+        "salePriceU": 261300,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 1,
+        "rating": 0,
+        "feedbacks": 0,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 81655674
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 18260788,
+        "root": 13582574,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо Адель 3, 1,2 л",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 57,
+        "priceU": 131700,
+        "salePriceU": 56600,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 4,
+        "feedbacks": 3,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 49766808
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12754145,
+        "root": 9570307,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо стекло",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 51,
+        "priceU": 89900,
+        "salePriceU": 44000,
+        "averagePrice": 44600,
+        "benefit": 1,
+        "pics": 3,
+        "rating": 4,
+        "feedbacks": 3,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39299667
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 81461712,
+        "root": 64425844,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо железо",
+        "brand": "Glasar",
+        "brandId": 24091,
+        "siteBrandId": 34091,
+        "sale": 58,
+        "priceU": 2332200,
+        "salePriceU": 979500,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 6,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+          {
+            "name": "желтый",
+            "id": 16776960
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 134553234
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 18611850,
+        "root": 13838524,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо камень",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 34,
+        "priceU": 99300,
+        "salePriceU": 65500,
+        "averagePrice": 57600,
+        "benefit": -13,
+        "pics": 2,
+        "rating": 0,
+        "feedbacks": 0,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 50334950
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 26313756,
+        "root": 19352800,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 55,
+        "priceU": 133200,
+        "salePriceU": 59900,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 5,
+        "rating": 0,
+        "feedbacks": 0,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 60841510
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 16118392,
+        "root": 12007903,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо цветов / керамика",
+        "brand": "RICH LINE Home Decor",
+        "brandId": 12579,
+        "siteBrandId": 22579,
+        "sale": 75,
+        "priceU": 219400,
+        "salePriceU": 54800,
+        "averagePrice": 48200,
+        "benefit": -13,
+        "pics": 2,
+        "rating": 4,
+        "feedbacks": 3,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 46131031
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 11915064,
+        "root": 8946179,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо дерево",
+        "brand": "Дарим Красиво",
+        "brandId": 52306,
+        "siteBrandId": 62306,
+        "sale": 45,
+        "priceU": 78800,
+        "salePriceU": 43300,
+        "averagePrice": 30700,
+        "benefit": -41,
+        "pics": 3,
+        "rating": 4,
+        "feedbacks": 1,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "желтый",
+            "id": 16776960
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 37438324
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 31311945,
+        "root": 23312588,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо металл",
+        "brand": "Glasar",
+        "brandId": 24091,
+        "siteBrandId": 34091,
+        "sale": 58,
+        "priceU": 956400,
+        "salePriceU": 401600,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 3,
+        "rating": 3,
+        "feedbacks": 1,
+        "colors": [
+          {
+            "name": "желтый",
+            "id": 16776960
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 68256295
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 118071189,
+        "root": 106277061,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо Декор / Цемент, песок",
+        "brand": "Glasar",
+        "brandId": 24091,
+        "siteBrandId": 34091,
+        "sale": 70,
+        "priceU": 601200,
+        "salePriceU": 180300,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 10,
+        "rating": 0,
+        "feedbacks": 0,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 210169984
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12753957,
+        "root": 9570159,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо металл",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 46,
+        "priceU": 295300,
+        "salePriceU": 159400,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39299479
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 16118390,
+        "root": 12007903,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо цветов / керамика",
+        "brand": "RICH LINE Home Decor",
+        "brandId": 12579,
+        "siteBrandId": 22579,
+        "sale": 75,
+        "priceU": 352400,
+        "salePriceU": 88100,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 4,
+        "feedbacks": 3,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 46131029
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12753951,
+        "root": 9570153,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо стекло",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 48,
+        "priceU": 96900,
+        "salePriceU": 50300,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 0,
+        "feedbacks": 0,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39299473
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 75183648,
+        "root": 59436771,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для цветов напольное горшок 43 л",
+        "brand": "VIVIPEACE",
+        "brandId": 150345,
+        "siteBrandId": 160345,
+        "sale": 45,
+        "priceU": 307400,
+        "salePriceU": 169000,
+        "averagePrice": 104700,
+        "benefit": -61,
+        "pics": 8,
+        "rating": 5,
+        "feedbacks": 73,
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 126653510
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 97984973,
+        "root": 76356942,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Горшок для цветов с подсветкой 2.3л",
+        "brand": "Лама Торф",
+        "brandId": 60049,
+        "siteBrandId": 70049,
+        "sale": 0,
+        "priceU": 160000,
+        "salePriceU": 160000,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 1,
+        "rating": 0,
+        "feedbacks": 0,
+        "isNew": true,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 155154773
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 97984969,
+        "root": 76356942,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Гор тех",
+        "brand": "Лама Торф",
+        "brandId": 60049,
+        "siteBrandId": 70049,
+        "sale": 0,
+        "priceU": 160000,
+        "salePriceU": 160000,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 1,
+        "rating": 0,
+        "feedbacks": 0,
+        "isNew": true,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 155154768
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 61546640,
+        "root": 46559203,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "Boulanger",
+        "brandId": 52434,
+        "siteBrandId": 62434,
+        "sale": 50,
+        "priceU": 4008000,
+        "salePriceU": 2004000,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 3,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 109143652
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 110164048,
+        "root": 100464885,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "TAKE IT EASY",
+        "brandId": 209744,
+        "siteBrandId": 219744,
+        "sale": 86,
+        "priceU": 2318100,
+        "salePriceU": 324500,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 5,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 200204310
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 115001909,
+        "root": 103972463,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "Хорошие сувениры",
+        "brandId": 234623,
+        "siteBrandId": 244623,
+        "sale": 47,
+        "priceU": 452900,
+        "salePriceU": 240000,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 5,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 206336722
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 118149267,
+        "root": 106340226,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "TAKE IT EASY",
+        "brandId": 209744,
+        "siteBrandId": 219744,
+        "sale": 50,
+        "priceU": 154400,
+        "salePriceU": 77200,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 5,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 210273044
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 13309090,
+        "root": 9970511,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо бетон",
+        "brand": "ZAVOD BETON",
+        "brandId": 439935,
+        "siteBrandId": 449935,
+        "sale": 13,
+        "priceU": 59000,
+        "salePriceU": 51300,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 5,
+        "feedbacks": 1,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 40504584
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 118149275,
+        "root": 106340234,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "TAKE IT EASY",
+        "brandId": 209744,
+        "siteBrandId": 219744,
+        "sale": 50,
+        "priceU": 289900,
+        "salePriceU": 144900,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 4,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 210273052
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 49,
+        "id": 45002765,
+        "root": 31265681,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / выдвижные ручки / abs-пластик",
+        "brand": "Удобно!",
+        "brandId": 153585,
+        "siteBrandId": 163585,
+        "sale": 14,
+        "priceU": 125000,
+        "salePriceU": 107500,
+        "averagePrice": 89125,
+        "benefit": -20,
+        "pics": 7,
+        "rating": 5,
+        "feedbacks": 2260,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 88660760
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 86099831,
+        "root": 68234264,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "Sisтема",
+        "brandId": 946629,
+        "siteBrandId": 956629,
+        "sale": 10,
+        "priceU": 220000,
+        "salePriceU": 198000,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 5,
+        "rating": 5,
+        "feedbacks": 1,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 140379876
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 26313752,
+        "root": 19352796,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 55,
+        "priceU": 307000,
+        "salePriceU": 138100,
+        "averagePrice": 145900,
+        "benefit": 5,
+        "pics": 4,
+        "rating": 2,
+        "feedbacks": 2,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 60841506
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 79717095,
+        "root": 47904560,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо горшок для цветов / полирезин",
+        "brand": "Terracotta shop",
+        "brandId": 874768,
+        "siteBrandId": 884768,
+        "sale": 26,
+        "priceU": 225000,
+        "salePriceU": 166500,
+        "averagePrice": 146500,
+        "benefit": -13,
+        "pics": 5,
+        "rating": 4,
+        "feedbacks": 30,
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 132518106
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 79033321,
+        "root": 62360710,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "нет бренда",
+        "brandId": 34503,
+        "siteBrandId": 44503,
+        "sale": 0,
+        "priceU": 41400,
+        "salePriceU": 41400,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 1,
+        "rating": 1,
+        "feedbacks": 1,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 131672587
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 77427787,
+        "root": 49716213,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / стильный дизайн / пластик",
+        "brand": "YRC",
+        "brandId": 912663,
+        "siteBrandId": 922663,
+        "sale": 32,
+        "priceU": 149900,
+        "salePriceU": 101900,
+        "averagePrice": 96383,
+        "benefit": -5,
+        "pics": 7,
+        "rating": 5,
+        "feedbacks": 1069,
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 129608910
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 72639552,
+        "root": 57566679,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо фигурное \"Автобус\" голубое, 11,5х7х7см",
+        "brand": "Барсоня кашпо",
+        "brandId": 1058115,
+        "siteBrandId": 1068115,
+        "sale": 0,
+        "priceU": 63400,
+        "salePriceU": 63400,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 5,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 123172528
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 87104191,
+        "root": 69041135,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "нет бренда",
+        "brandId": 34503,
+        "siteBrandId": 44503,
+        "sale": 0,
+        "priceU": 57700,
+        "salePriceU": 57700,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 141640372
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 85625268,
+        "root": 67861145,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для суккулентов / ручная работа / литьевой камень",
+        "brand": "Art skvorec",
+        "brandId": 438485,
+        "siteBrandId": 448485,
+        "sale": 87,
+        "priceU": 550000,
+        "salePriceU": 71500,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 5,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+          {
+            "name": "синий",
+            "id": 255
+          },
+          {
+            "name": "оранжевый",
+            "id": 16753920
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 139808052
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 112365123,
+        "root": 101939613,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "Common Buzzard-QB",
+        "brandId": 29186105,
+        "siteBrandId": 0,
+        "sale": 60,
+        "priceU": 73300,
+        "salePriceU": 29300,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 0,
+        "feedbacks": 0,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 202989062
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 112358015,
+        "root": 101936486,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "Дарите Счастье-QB",
+        "brandId": 1388071,
+        "siteBrandId": 1398071,
+        "sale": 50,
+        "priceU": 59200,
+        "salePriceU": 29600,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 2,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 202980445
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 64867149,
+        "root": 49229713,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо горшок для цветов / с подставкой / металл",
+        "brand": "ALTAA",
+        "brandId": 401296,
+        "siteBrandId": 411296,
+        "sale": 43,
+        "priceU": 790000,
+        "salePriceU": 450300,
+        "averagePrice": 382300,
+        "benefit": -17,
+        "pics": 7,
+        "rating": 4,
+        "feedbacks": 21,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 113470909
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 26313787,
+        "root": 19352829,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 59,
+        "priceU": 182200,
+        "salePriceU": 74700,
+        "averagePrice": 100700,
+        "benefit": 25,
+        "pics": 4,
+        "rating": 4,
+        "feedbacks": 7,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          },
+          {
+            "name": "желтый",
+            "id": 16776960
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 60841541
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 12927801,
+        "root": 9693791,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Стильное кашпо для цветов с поддоном, 3л",
+        "brand": "Plast avenue",
+        "brandId": 28254,
+        "siteBrandId": 38254,
+        "sale": 30,
+        "priceU": 65000,
+        "salePriceU": 45500,
+        "averagePrice": 39421,
+        "benefit": -15,
+        "pics": 7,
+        "rating": 5,
+        "feedbacks": 255,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39679796
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 97984971,
+        "root": 76356942,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Гор тех",
+        "brand": "Лама Торф",
+        "brandId": 60049,
+        "siteBrandId": 70049,
+        "sale": 0,
+        "priceU": 300000,
+        "salePriceU": 300000,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 1,
+        "rating": 0,
+        "feedbacks": 0,
+        "isNew": true,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 155154771
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 110260875,
+        "root": 100535782,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо",
+        "brand": "Barantsev кашпо",
+        "brandId": 1351957,
+        "siteBrandId": 1361957,
+        "sale": 0,
+        "priceU": 310600,
+        "salePriceU": 310600,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 3,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 200330161
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 18260736,
+        "root": 13582537,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо Абстракция зеленая 1,65 л",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 51,
+        "priceU": 85100,
+        "salePriceU": 41600,
+        "averagePrice": 58600,
+        "benefit": 28,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 3,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 49766756
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 84907137,
+        "root": 67321486,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо для дома / Дренажная вставка / полипропилен",
+        "brand": "German quality",
+        "brandId": 424871,
+        "siteBrandId": 434871,
+        "sale": 75,
+        "priceU": 500000,
+        "salePriceU": 125000,
+        "averagePrice": 110000,
+        "benefit": -13,
+        "pics": 17,
+        "rating": 4,
+        "feedbacks": 35,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 138685987
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12764501,
+        "root": 9577761,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо гипс",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 34,
+        "priceU": 103400,
+        "salePriceU": 68200,
+        "averagePrice": 68200,
+        "benefit": 0,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 4,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          },
+          {
+            "name": "оранжевый",
+            "id": 16753920
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39320816
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12764503,
+        "root": 9577770,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо гипс",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 38,
+        "priceU": 110800,
+        "salePriceU": 68600,
+        "averagePrice": 90200,
+        "benefit": 23,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 1,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "желтый",
+            "id": 16776960
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39320818
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 13183475,
+        "root": 9879894,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамическое \"Кактус\" 12*12*12 см",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 59,
+        "priceU": 182500,
+        "salePriceU": 74800,
+        "averagePrice": 100900,
+        "benefit": 25,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 7,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 40231625
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12764429,
+        "root": 9577711,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо полистоун",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 48,
+        "priceU": 169400,
+        "salePriceU": 88000,
+        "averagePrice": 65500,
+        "benefit": -34,
+        "pics": 4,
+        "rating": 5,
+        "feedbacks": 2,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          },
+          {
+            "name": "коричневый",
+            "id": 10824234
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39320744
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12764411,
+        "root": 9577698,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо полистоун",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 40,
+        "priceU": 148800,
+        "salePriceU": 89200,
+        "averagePrice": 72100,
+        "benefit": -23,
+        "pics": 4,
+        "rating": 0,
+        "feedbacks": 0,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "оранжевый",
+            "id": 16753920
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39320726
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 12764498,
+        "root": 9577771,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо гипс",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 41,
+        "priceU": 99800,
+        "salePriceU": 58800,
+        "averagePrice": 56800,
+        "benefit": -3,
+        "pics": 4,
+        "rating": 4,
+        "feedbacks": 11,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39320813
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 12764406,
+        "root": 9577690,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо полистоун",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 48,
+        "priceU": 175100,
+        "salePriceU": 91000,
+        "averagePrice": 80100,
+        "benefit": -13,
+        "pics": 6,
+        "rating": 4,
+        "feedbacks": 1,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 39320721
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 38404118,
+        "root": 28882743,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 39,
+        "priceU": 90400,
+        "salePriceU": 55100,
+        "averagePrice": 51900,
+        "benefit": -6,
+        "pics": 3,
+        "rating": 5,
+        "feedbacks": 2,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 78501335
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 5,
+        "time2": 19,
+        "id": 54744149,
+        "root": 40889913,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо гипс",
+        "brand": "Premium Gips",
+        "brandId": 145742,
+        "siteBrandId": 155742,
+        "sale": 35,
+        "priceU": 279100,
+        "salePriceU": 181400,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 3,
+        "rating": 0,
+        "feedbacks": 0,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 101203311
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 40439116,
+        "root": 30344652,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо металл",
+        "brand": "Triumph Xmas",
+        "brandId": 22824,
+        "siteBrandId": 32824,
+        "sale": 84,
+        "priceU": 682800,
+        "salePriceU": 109200,
+        "averagePrice": 168200,
+        "benefit": 35,
+        "pics": 1,
+        "rating": 0,
+        "feedbacks": 0,
+        "panelPromoId": 141584,
+        "promoTextCat": "PRE SALE",
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 81655765
+          }
+        ],
+        "diffPrice": false
+      },
+      {
+        "time1": 4,
+        "time2": 19,
+        "id": 38404136,
+        "root": 28882757,
+        "kindId": 0,
+        "subjectId": 870,
+        "subjectParentId": 6943,
+        "name": "Кашпо керамика",
+        "brand": "Сималенд",
+        "brandId": 18713,
+        "siteBrandId": 28713,
+        "sale": 33,
+        "priceU": 322400,
+        "salePriceU": 216000,
+        "averagePrice": 0,
+        "benefit": 0,
+        "pics": 4,
+        "rating": 1,
+        "feedbacks": 1,
+        "colors": [
+
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 78501353
+          }
+        ],
+        "diffPrice": false
+      }
+    ]
+  }
+}
